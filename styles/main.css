@@ -1,3 +1,11 @@
-ul > li {
-	color: green;
+.sub-list > .laundry-list {
 }	
+
+.laundry-list {
+	color: blue;
+
+}
+
+.sub-list {
+	color:orange;
+}
